@@ -3,7 +3,7 @@ def demo():
     print("Usage:\nlegion_rolls(num,flank=0,bonus=0,caster_lev=8)")
     print("legion_damage(num,bonus=0,caster_lev=9)")
     
-def legion_rolls(num,flank=0,bonus=0,caster_lev=9):
+def legion_rolls(num,flank=0,bonus=0,caster_lev=8):
     
     print("Number of attacks: "+str(num))
     print("Number flanking: "+str(flank))
@@ -28,7 +28,7 @@ def legion_rolls(num,flank=0,bonus=0,caster_lev=9):
                 A=np.random.randint(1,20)
                 print("Crit! Roll to confirm "+str(A)+"  +  "+str(bonus+cast_bonus)+"=  "+str(A+bonus+cast_bonus)+"\n")
             flank_ct=flank_ct+1
-def legion_damage(num,bonus=0,caster_lev=9):
+def legion_damage(num,bonus=0,caster_lev=8):
     cast_bonus=np.minimum(np.floor(caster_lev/3),5)
     for i in range(num):
         A=np.random.randint(1,8)
