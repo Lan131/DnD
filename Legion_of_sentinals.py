@@ -1,6 +1,6 @@
 import numpy as np   
 def demo():
-    print("Usage:\nlegion_rolls(num,flank=0,bonus=0,caster_lev=9)")
+    print("Usage:\nlegion_rolls(num,flank=0,bonus=0,caster_lev=8)")
     print("legion_damage(num,bonus=0,caster_lev=9)")
     
 def legion_rolls(num,flank=0,bonus=0,caster_lev=9):
