@@ -26,7 +26,7 @@ def legion_rolls(num,flank=0,bonus=0,caster_lev=9):
             print("Attack "+str(i)+":"+str(A)+"  +  "+str(cast_bonus)+"  +  "+str(bonus)+"=  "+str(A_))
             while(A>=19):
                 A=np.random.randint(1,20)
-                print("Crit! Roll to confirm "+str(A)+"  +  "+str(2+bonus+cast_bonus)+"=  "+str(A+bonus+cast_bonus)+"\n")
+                print("Crit! Roll to confirm "+str(A)+"  +  "+str(bonus+cast_bonus)+"=  "+str(A+bonus+cast_bonus)+"\n")
             flank_ct=flank_ct+1
 def legion_damage(num,bonus=0,caster_lev=9):
     cast_bonus=np.minimum(np.floor(caster_lev/3),5)
