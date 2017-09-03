@@ -19,7 +19,7 @@ gain focus for me and psi crystal
 
 
 
-
+if decerebrate renders unconsious:
 
 Turn 1 (This is my normal turn):
 (swift) Temporal acceleration share with psi crystal[15]:
@@ -45,6 +45,7 @@ DC10+9(int)+7(power)+1 (high psionics)+2 (psionic discipline focus)+2(psionic en
 
 100pp 300xp
 
+if decerebrate doesn't render unconsious:
 
 Turn 1 (This is my normal turn):
 (swift) Temporal acceleration share with psi crystal[15]:
@@ -60,7 +61,7 @@ Turn 2 (I am a Chrnotyrn now)
 (syncronocity from linked power last turn)Bend reality with moment of prescience to beat SR greater power pen gets -8 to next save [13]
 (move) regain focus
 (schism 1: syncnronocity after moment of prescience)[1]
-(schism 2: syncnronocity after decerebrate) [1]
+(schism 2: syncnronocity after dominate) [1]
 (standard)  moment of prescience [11]
 (syncnronocity from schism 1) Psionic Dominate expend focus greater power penetration greater psionic endowment [19] overchannel (3d8)
 DC10+9(int)+4(power)+1 (high psionics)+2(psionic endowment)+6 (augmented save bonus)=32 will
