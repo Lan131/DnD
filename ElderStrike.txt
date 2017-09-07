@@ -23,11 +23,13 @@ if decerebrate renders unconsious:
 
 Turn 1 (This is my normal turn):
 (swift) Temporal acceleration share with psi crystal[15]:
-                                    T1: schism linked with syncronocity, swift action shapeshift to Chrnotyrn, (move) regain focus [10]
-                                                      (http://www.realmshelps.net/monsters/block/Chronotyryn)
-                                    T2: (I get two turns for this I am a chronotyrn)
-                                            T1:Moment of prescience, regain fosus [11]
-                                            T2:Forced Dream share with psicrysal, move [5]
+                                    T1: schism linked with syncronocity , (move) regain focus [10]
+                                                    
+                                    T2: (sync) move
+                                    (schism) (syn) move
+                                    Moment of prescience, regain focus [11] swift action shapeshift to Chrnotyrn
+                                      (http://www.realmshelps.net/monsters/block/Chronotyryn)
+                                           
 (schism mind) manifest schism again link to syncronocity(I have two) [9]
 (standard) Dispell psionics [11]
 (move) regain focus
