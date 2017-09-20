@@ -1,17 +1,18 @@
 Power up suite:
-Vigor
-Share Pain
-Feat Leech, extend
-feat leech, persist
-feat leech linked power extended
-feat leech overchannel  extended
-Feat Leech, extend extended
-fusion extended
-greater metamorphosis extended
-contingency -> moment of prescience trigger: roll initative for combat with elder brain
+Vigor 20
+Share Pain 3
+Feat Leech, extend 5
+feat leech, persist 5
+feat leech linked power extended 5
+feat leech overchannel  extended 5
+Feat Leech, extend extended 5 
+fusion extended 17
+greater metamorphosis extended 19
+freedom of movement persist 15
+true sight persist 15
 gain focus for me and psi crystal
 
-115 power points 256xp
+114 power points 250xp
 
 
 
